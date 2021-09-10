@@ -1,1 +1,1 @@
-Contains jupyter notebooks.
+Contains mini-projects/practice code files.
